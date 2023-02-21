@@ -1,0 +1,76 @@
+img.arriba{
+    left: 850px;
+    position: relative;
+}
+body.cuerpo{
+background-color: bisque;
+}
+span.enlaces{
+text-align: center;
+background-color: skyblue;
+display: block;
+color: green;
+}
+div.a{
+background-color: white;
+
+}
+div.texta{
+    color: blue;
+    text-align: justify;
+    left: 140px;
+    position: relative;
+}
+div.azul{
+    display: block;
+    background-color: blue;
+    
+}
+img.texta{
+    position: relative;
+    width: 140px;
+    height: 110px;
+    top: -315px;
+}
+div.b{
+    background-color:aquamarine;
+
+}
+div.textb{
+    text-align: left;
+}
+div.red{
+    background-color: red;
+    display: block;
+}
+h5{
+    text-align: center;
+}
+span.raya{
+    text-decoration: line-through;
+}
+span.servicio{
+    background-color: yellow;
+}
+img.textb{
+    position: relative;
+    width: 160px;
+    height: 120px;
+    top: -145px;
+    left: 1575px;
+}
+div.form{
+    background-color: skyblue;
+    left: 850;
+    position: relative;
+   display: inline-block;
+   text-align: left;
+}
+form.form{
+    position: relative;
+    left: 700;
+}
+body.cuerpob{
+    background-color: bisque;
+text-align: center;
+}
